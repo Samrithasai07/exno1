@@ -204,5 +204,9 @@ print("Cleaned dataset saved successfully!")
 <img width="848" height="712" alt="image" src="https://github.com/user-attachments/assets/99892079-066c-4670-8a47-18796495d715" />
 # Summary
 
+Through this experiment, I learned how to read and understand datasets using Pandas. I learned to check the dataset's structure, columns, and information. I understood how to identify and handle missing values using different methods. I learned to remove duplicate records from the dataset. I also learned to use mean, median, mode, and interpolation to fill missing values. I explored outlier detection using the IQR method and Z-score. I understood how to check data quality before performing analysis. Finally, I learned to save the cleaned dataset as a CSV file for further use.
+
 # Result
         
+Thus the given data have been read and performed data cleaning and saved the cleaned data to a file.
+
